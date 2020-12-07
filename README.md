@@ -1,2 +1,2 @@
-# iia-scripts
+# ii-scripts
 To keep minetweaker scripts
